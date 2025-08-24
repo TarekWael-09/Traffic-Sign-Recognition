@@ -58,5 +58,3 @@ Dense (43) → Softmax
 - **Predicted Class:** `Stop` ✅  
 - **Confidence:** 99.2%  
 
-git clone https://github.com/your-username/traffic-sign-recognition.git
-cd traffic-sign-recognition
